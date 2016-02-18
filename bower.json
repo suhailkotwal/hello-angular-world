@@ -1,0 +1,18 @@
+{
+  "name": "hello.angular.world",
+  "version": "1.0.0",
+  "description": "Angular Hello World Application",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angularjs": "1.4.3",
+    "angular-route": "1.4.3"
+  },
+  "resolutions": {
+    "angular": "1.4.3"
+  }
+}
